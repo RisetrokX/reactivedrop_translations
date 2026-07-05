@@ -10543,7 +10543,7 @@
 "[english]rd_crafting_recipe_refinement_wires_flavor"		""
 "rd_crafting_recipe_refinement_wires_flavor"		""
 "[english]rd_crafting_recipe_refinement_carbon"		"Refine Carbon Fiber"
-"rd_crafting_recipe_refinement_carbon"		"탄소 섬유 정제"
+"rd_crafting_recipe_refinement_carbon"		"탄소섬유 정제"
 "[english]rd_crafting_recipe_refinement_carbon_flavor"		""
 "rd_crafting_recipe_refinement_carbon_flavor"		""
 
