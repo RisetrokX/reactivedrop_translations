@@ -3,7 +3,7 @@
 "Language"		"polish"
 "Tokens"
 {
-"[english]Valve_Listen_MapName"		"Mapa"
+"[english]Valve_Listen_MapName"		"Map"
 "Valve_Listen_MapName"		"Mapa"
 "[english]Valve_Movement_Title"		"RUCH"
 "Valve_Movement_Title"		"RUCH"
